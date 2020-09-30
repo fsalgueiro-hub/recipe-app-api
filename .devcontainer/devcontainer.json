@@ -16,7 +16,7 @@
 		"python.pythonPath": "/usr/local/bin/python",
 		"python.linting.enabled": true,
 		"python.linting.pylintEnabled": true,
-		"python.linting.pylintPath": "/usr/local/lib/python3.7/site-packages/pylint",
+		"python.linting.pylintPath": "/usr/local/bin/pylint",
 		"python.linting.pylintArgs": ["--load-plugins=pylint_django"]
 
 	},
